@@ -1,6 +1,7 @@
 
 # Visual Studio files
 .vs/
+.idea/
 *.user
 
 # Output object and binary folders
